@@ -1,0 +1,16 @@
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.pdb
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csprojResolveAssemblyReference.cache
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmDangNhap.resources
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.Properties.Resources.resources
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.csproj.GenerateResource.Cache
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe.licenses
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.exe
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.pdb
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\bin\Debug\QuanLyNhaHang.exe.config
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmBanHang.resources
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmQLNhanVien.resources
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmQLNV.resources
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmCaLam.resources
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmLuong.resources
+C:\Users\84168\Desktop\DA_QLNhaHang\QuanLyNhaHang\QuanLyNhaHang\obj\Debug\QuanLyNhaHang.frmChamCong.resources
